@@ -1,4 +1,4 @@
-name = "youtube-proxy-worker"
+name = "youtube-proxyworker2"
 main = "src/index.js"
 compatibility_date = "2024-01-15"
 
